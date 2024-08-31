@@ -16,7 +16,7 @@ Trò chơi ghép hình cơ bản
 
 Video trò chơi
 
-<iframe src="https://drive.google.com/file/d/1nck_vYWHd6zr_L90oKrgPI3euDptgs_A/view?usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1nck_vYWHd6zr_L90oKrgPI3euDptgs_A/view" width="640" height="480"></iframe>
 
 ## Installation
 
@@ -54,7 +54,7 @@ python editLevel.py
 <img src="https://github.com/harveycdr/Learn-OOP/blob/root/Screenshot2024-08-02_203018.png" alt="Ảnh game play" >
 
 #Ảnh chương trình edit level
-<img src="https://github.com/harveycdr/Learn-OOP/blob/root/eidt_demo.png" alt="Edit level game" >
+<img src="https://github.com/harveycdr/Learn-OOP/blob/root/edit_demo.png" alt="Edit level game" >
 
 ## Mô tả 
 
